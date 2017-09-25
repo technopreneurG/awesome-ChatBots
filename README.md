@@ -13,6 +13,7 @@
 * [Amazon Lex](https://aws.amazon.com/lex/) - Build Conversation Bots
 * [Aylien](http://aylien.com/) - Text Analysis | Sentiment Analysis | AYLIEN
 * [AwesomeBot](http://awesomebot.xyz/) - AwesomeBot for Discord
+* [Botsociety](https://botsociety.io) - The fastest way to preview and prototype your chatbot
 * [Botkit](https://howdy.ai/botkit/)
 * [Chatfuel](https://chatfuel.com/) - The intuitive bot builder with AI navigation
 * [Converse AI](http://www.converse.ai/) -  Chatbots made easy
