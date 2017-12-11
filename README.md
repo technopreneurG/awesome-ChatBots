@@ -31,6 +31,7 @@
 * [Discord](https://discordapp.com/developers/) - Free voice and text chat for gamers
 * [Facebook messenger](https://developers.facebook.com/docs/messenger-platform)
 * [Kik](https://dev.kik.com/#/home)
+* [IBM Bot Asset Exchange](https://developer.ibm.com/code/exchanges/bots/) - Community-driven chatbot development hub for bots built with Watson Conversation Service
 * [Skype](https://www.skype.com/en/developer/)
 * [Slack](https://api.slack.com/)
 * [Telegram](https://core.telegram.org/bots)
